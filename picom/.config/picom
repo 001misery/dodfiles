@@ -2,8 +2,6 @@ backend = "glx";
 glx-use-copysubbuffer-mesa = true;
 vsync = true;
 
-fade-in-step = 1;
-fade-out-step = 1;
 glx-copy-from-front = true;
 glx-swap-method = 2;
 xrender-sync = true;
